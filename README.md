@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Rayana Ketyn
 - 💻 Desenvolvedora de Software | Estudante de ADS
 - 📚 Buscando estágio para aplicar e expandir meus conhecimentos
-- 🌱 Explorando novas oportunidades e desafios no desenvolvimento de software
+- 🚀 Explorando novas oportunidades e desafios no desenvolvimento de software
 - 👩‍💻 Estudando JavaScript e Python
 
 <h2 align="left"></h2>
@@ -23,9 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
-
