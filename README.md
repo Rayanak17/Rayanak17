@@ -22,9 +22,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rayanak17/Rayanak17/output/snake.svg" alt="Snake animation" />
-
-###
