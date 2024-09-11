@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Rayana Ketyn
-
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript e Python
-- 😄 Pronouns: ela/dela
+- 💻 Desenvolvedora de Software | Estudante de ADS
+- 📚 Buscando estágio para aplicar e expandir meus conhecimentos
+- 🌱 Explorando novas oportunidades e desafios no desenvolvimento de software
+- 👩‍💻 Estudando JavaScript e Python
 
 <h2 align="left"></h2>
 
