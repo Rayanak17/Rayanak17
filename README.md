@@ -1,6 +1,6 @@
 ## Oii! Eu sou Rayana Ketyn
 
-- 💻 Desenvolvedora Backend em formação|Estudante de ADS
+- 💻 Desenvolvedora Backend em formação | Estudante de ADS
 - 🚀 Buscando oportunidades para expandir meus conhecimentos
 
 <div align="center">
